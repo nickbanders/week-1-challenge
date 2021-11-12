@@ -1,4 +1,4 @@
-## Week 1 Challenge: Code Refractor
+# Week 1 Challenge: Code Refractor
 
 Fixed links in header
 
